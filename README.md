@@ -10,9 +10,9 @@ Advanced Machine Learning task submission repository
 
 ## Practical Assignment 1
 Create a python class with the following objectives: <br>
-- A method for creating a design matrix for a feature vector $x$
+- A method for creating a design matrix for a feature vector x
 - A method for learning the parameters of the model
-- A method for predicting target values given input values $x$ using two methods:
+- A method for predicting target values given input values x using two methods:
     - ÓLS
     - MLE
  - A plotting method for a fitted line and 1 standard division for denoting uncertainties with the MLE method.
