@@ -1,6 +1,12 @@
 # Advanced-Machine-Learning
 Advanced Machine Learning task submission repository
 
+## Hands-On with Python: Exercises 1 
+- Generate 200 data points between 0 and 30 from uniform distribution
+- Set intercept and slope to values of your choice
+- <img src="https://render.githubusercontent.com/render/math?math= y_true = intercept + slope x">
+
+
 ## Homework 1
 - Create a python function that computes a design matrix using NumPy.
 
