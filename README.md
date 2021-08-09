@@ -3,7 +3,7 @@ Advanced Machine Learning task submission repository
 
 ## Hands-On with Python: Exercises 1 
 - Generate 200 data points between 0 and 30 from uniform distribution
-- Set intercept and slope to values of your choice $`y_true = intercept + slope x`$
+- Set intercept and slope to values of your choice - <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 
 
 ## Homework 1
